@@ -1,0 +1,4 @@
+#DROP DATABASE 'database name';
+#CREATE DATABASE 'database name';
+
+mysqldump -uroot -ppaho3047@ 'database name' | mysql -uroot -ppaho3047@ 'database name';

@@ -1,0 +1,2 @@
+CREATE TABLE aux_imgs3 LIKE aux_imgs2; 
+INSERT INTO aux_imgs3 SELECT * FROM aux_imgs2;

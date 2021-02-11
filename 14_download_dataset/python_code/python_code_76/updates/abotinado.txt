@@ -1,0 +1,4 @@
+'325780', 'abotinado aletza napa preta', 'Super descolado, este modelo é a cara da estação. Na combinação em Napa Preta e Verniz texturizado Preto, você poderá compor aquele look especial cheio de estilo', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'feminino'
+'314278', 'abotinado aletza recortes napa cafe', 'Este modelo &eacute; novidade em estilo. O cabedal em couro Napa Caf&eacute; &eacute; super coringa. A palmilha vem refor&ccedil;ada em espuma para garantir muito conforto e a sola &eacute; tratorada preta com design diferenciado.&nbsp;.', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'feminino'
+'300950', 'abotinado aletza recortes napa whisky', 'Este modelo é novidade em estilo. O cabedal em couro Napa Whisky é super versátil. A palmilha vem reforçada em espuma para garantir muito conforto e a sola é tratorada preta com design diferenciado', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'feminino'
+

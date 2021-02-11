@@ -1,0 +1,30 @@
+
+Total skus = 347435
+Total skus >=1 imagens = 317062
+Total imagens baixadas = 843071
+
+Problemas:
+	-desequilíbrio de classes
+	-download das urls
+	-organização do dataset
+	-tamanho do dataset
+	-imagens em alta resolução
+	-imagens não padronizadas
+	-imagens duplicadas
+	-imagens corrompidas
+	-imagens não utilizáveis
+	-rotulagem fraca
+	-erros de rotulagem
+	-atributos contidos em campos textuais
+	(necessária mineração de texto para extrair)
+
+
+Exemplos de situações de imagens a serem destacadas:
+	-Quaisquer imagens aparentemente estranhas ou sem sentido visual
+	-Imagens com banners ou promoções
+	-imagens com medidas ou tabelas de informações
+	-Desenhos demonstrativos (exceto estampas)
+	-Imagens corrompidas
+	-Miniatura ou thumbnmail não carrega a imagem
+	-Imagens com cores sólidas
+	-Imagens cortadas ou pela metade
